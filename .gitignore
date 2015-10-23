@@ -1,11 +1,7 @@
-_site
-.sass-cache
-css/blog.css*
-
-# IDE generated files
-.idea
-.DS_Store
-.buildpath
-.project
-.settings/
-*.swp
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
